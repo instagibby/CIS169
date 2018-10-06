@@ -1,0 +1,10 @@
+C:\Users\Spnny\source\repos\HelloWorldSpencerDavis\HelloWorldSpencerDavis\bin\Debug\HelloWorldSpencerDavis.exe.config
+C:\Users\Spnny\source\repos\HelloWorldSpencerDavis\HelloWorldSpencerDavis\bin\Debug\HelloWorldSpencerDavis.exe
+C:\Users\Spnny\source\repos\HelloWorldSpencerDavis\HelloWorldSpencerDavis\bin\Debug\HelloWorldSpencerDavis.pdb
+C:\Users\Spnny\source\repos\HelloWorldSpencerDavis\HelloWorldSpencerDavis\obj\Debug\HelloWorldSpencerDavis.csprojAssemblyReference.cache
+C:\Users\Spnny\source\repos\HelloWorldSpencerDavis\HelloWorldSpencerDavis\obj\Debug\HelloWorldSpencerDavis.HelloWorld.resources
+C:\Users\Spnny\source\repos\HelloWorldSpencerDavis\HelloWorldSpencerDavis\obj\Debug\HelloWorldSpencerDavis.Properties.Resources.resources
+C:\Users\Spnny\source\repos\HelloWorldSpencerDavis\HelloWorldSpencerDavis\obj\Debug\HelloWorldSpencerDavis.csproj.GenerateResource.cache
+C:\Users\Spnny\source\repos\HelloWorldSpencerDavis\HelloWorldSpencerDavis\obj\Debug\HelloWorldSpencerDavis.csproj.CoreCompileInputs.cache
+C:\Users\Spnny\source\repos\HelloWorldSpencerDavis\HelloWorldSpencerDavis\obj\Debug\HelloWorldSpencerDavis.exe
+C:\Users\Spnny\source\repos\HelloWorldSpencerDavis\HelloWorldSpencerDavis\obj\Debug\HelloWorldSpencerDavis.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M02_Davis_HeadsOrTails", "M02_Davis_HeadsOrTails\M02_Davis_HeadsOrTails.csproj", "{162A76F7-6BE8-4EEE-9133-23FB8BC10873}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{162A76F7-6BE8-4EEE-9133-23FB8BC10873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{162A76F7-6BE8-4EEE-9133-23FB8BC10873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{162A76F7-6BE8-4EEE-9133-23FB8BC10873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{162A76F7-6BE8-4EEE-9133-23FB8BC10873}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87F787C7-D136-4F88-B840-1C3DC7EA0AC9}
+	EndGlobalSection
+EndGlobal

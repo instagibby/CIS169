@@ -1,0 +1,10 @@
+C:\Users\Spnny\source\repos\M03_Davis_StringVariableDemo\M03_Davis_StringVariableDemo\bin\Debug\M03_Davis_StringVariableDemo.exe.config
+C:\Users\Spnny\source\repos\M03_Davis_StringVariableDemo\M03_Davis_StringVariableDemo\bin\Debug\M03_Davis_StringVariableDemo.exe
+C:\Users\Spnny\source\repos\M03_Davis_StringVariableDemo\M03_Davis_StringVariableDemo\bin\Debug\M03_Davis_StringVariableDemo.pdb
+C:\Users\Spnny\source\repos\M03_Davis_StringVariableDemo\M03_Davis_StringVariableDemo\obj\Debug\M03_Davis_StringVariableDemo.csprojAssemblyReference.cache
+C:\Users\Spnny\source\repos\M03_Davis_StringVariableDemo\M03_Davis_StringVariableDemo\obj\Debug\M03_Davis_StringVariableDemo.StringVariableDemo.resources
+C:\Users\Spnny\source\repos\M03_Davis_StringVariableDemo\M03_Davis_StringVariableDemo\obj\Debug\M03_Davis_StringVariableDemo.Properties.Resources.resources
+C:\Users\Spnny\source\repos\M03_Davis_StringVariableDemo\M03_Davis_StringVariableDemo\obj\Debug\M03_Davis_StringVariableDemo.csproj.GenerateResource.cache
+C:\Users\Spnny\source\repos\M03_Davis_StringVariableDemo\M03_Davis_StringVariableDemo\obj\Debug\M03_Davis_StringVariableDemo.csproj.CoreCompileInputs.cache
+C:\Users\Spnny\source\repos\M03_Davis_StringVariableDemo\M03_Davis_StringVariableDemo\obj\Debug\M03_Davis_StringVariableDemo.exe
+C:\Users\Spnny\source\repos\M03_Davis_StringVariableDemo\M03_Davis_StringVariableDemo\obj\Debug\M03_Davis_StringVariableDemo.pdb

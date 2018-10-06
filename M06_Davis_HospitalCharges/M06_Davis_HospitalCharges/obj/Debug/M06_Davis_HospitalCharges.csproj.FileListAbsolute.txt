@@ -1,0 +1,10 @@
+C:\Users\Spnny\source\repos\M06_Davis_HospitalCharges\M06_Davis_HospitalCharges\bin\Debug\M06_Davis_HospitalCharges.exe.config
+C:\Users\Spnny\source\repos\M06_Davis_HospitalCharges\M06_Davis_HospitalCharges\bin\Debug\M06_Davis_HospitalCharges.exe
+C:\Users\Spnny\source\repos\M06_Davis_HospitalCharges\M06_Davis_HospitalCharges\bin\Debug\M06_Davis_HospitalCharges.pdb
+C:\Users\Spnny\source\repos\M06_Davis_HospitalCharges\M06_Davis_HospitalCharges\obj\Debug\M06_Davis_HospitalCharges.csprojAssemblyReference.cache
+C:\Users\Spnny\source\repos\M06_Davis_HospitalCharges\M06_Davis_HospitalCharges\obj\Debug\M06_Davis_HospitalCharges.HospitalCharges.resources
+C:\Users\Spnny\source\repos\M06_Davis_HospitalCharges\M06_Davis_HospitalCharges\obj\Debug\M06_Davis_HospitalCharges.Properties.Resources.resources
+C:\Users\Spnny\source\repos\M06_Davis_HospitalCharges\M06_Davis_HospitalCharges\obj\Debug\M06_Davis_HospitalCharges.csproj.GenerateResource.cache
+C:\Users\Spnny\source\repos\M06_Davis_HospitalCharges\M06_Davis_HospitalCharges\obj\Debug\M06_Davis_HospitalCharges.csproj.CoreCompileInputs.cache
+C:\Users\Spnny\source\repos\M06_Davis_HospitalCharges\M06_Davis_HospitalCharges\obj\Debug\M06_Davis_HospitalCharges.exe
+C:\Users\Spnny\source\repos\M06_Davis_HospitalCharges\M06_Davis_HospitalCharges\obj\Debug\M06_Davis_HospitalCharges.pdb

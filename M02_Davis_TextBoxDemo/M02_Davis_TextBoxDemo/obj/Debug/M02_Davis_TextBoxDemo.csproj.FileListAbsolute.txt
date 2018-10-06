@@ -1,0 +1,10 @@
+C:\Users\Spnny\source\repos\M02_Davis_TextBoxDemo\M02_Davis_TextBoxDemo\bin\Debug\M02_Davis_TextBoxDemo.exe.config
+C:\Users\Spnny\source\repos\M02_Davis_TextBoxDemo\M02_Davis_TextBoxDemo\bin\Debug\M02_Davis_TextBoxDemo.exe
+C:\Users\Spnny\source\repos\M02_Davis_TextBoxDemo\M02_Davis_TextBoxDemo\bin\Debug\M02_Davis_TextBoxDemo.pdb
+C:\Users\Spnny\source\repos\M02_Davis_TextBoxDemo\M02_Davis_TextBoxDemo\obj\Debug\M02_Davis_TextBoxDemo.csprojAssemblyReference.cache
+C:\Users\Spnny\source\repos\M02_Davis_TextBoxDemo\M02_Davis_TextBoxDemo\obj\Debug\M02_Davis_TextBoxDemo.TextBoxDemo.resources
+C:\Users\Spnny\source\repos\M02_Davis_TextBoxDemo\M02_Davis_TextBoxDemo\obj\Debug\M02_Davis_TextBoxDemo.Properties.Resources.resources
+C:\Users\Spnny\source\repos\M02_Davis_TextBoxDemo\M02_Davis_TextBoxDemo\obj\Debug\M02_Davis_TextBoxDemo.csproj.GenerateResource.cache
+C:\Users\Spnny\source\repos\M02_Davis_TextBoxDemo\M02_Davis_TextBoxDemo\obj\Debug\M02_Davis_TextBoxDemo.csproj.CoreCompileInputs.cache
+C:\Users\Spnny\source\repos\M02_Davis_TextBoxDemo\M02_Davis_TextBoxDemo\obj\Debug\M02_Davis_TextBoxDemo.exe
+C:\Users\Spnny\source\repos\M02_Davis_TextBoxDemo\M02_Davis_TextBoxDemo\obj\Debug\M02_Davis_TextBoxDemo.pdb

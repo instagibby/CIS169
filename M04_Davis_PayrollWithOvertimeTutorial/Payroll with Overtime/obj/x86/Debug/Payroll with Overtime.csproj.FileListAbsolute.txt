@@ -1,0 +1,9 @@
+C:\Users\Spnny\source\repos\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.exe
+C:\Users\Spnny\source\repos\Payroll with Overtime\Payroll with Overtime\bin\Debug\Payroll with Overtime.pdb
+C:\Users\Spnny\source\repos\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.csprojAssemblyReference.cache
+C:\Users\Spnny\source\repos\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll_with_Overtime.PayrollWithOvertime.resources
+C:\Users\Spnny\source\repos\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll_with_Overtime.Properties.Resources.resources
+C:\Users\Spnny\source\repos\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.csproj.GenerateResource.cache
+C:\Users\Spnny\source\repos\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.csproj.CoreCompileInputs.cache
+C:\Users\Spnny\source\repos\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.exe
+C:\Users\Spnny\source\repos\Payroll with Overtime\Payroll with Overtime\obj\x86\Debug\Payroll with Overtime.pdb

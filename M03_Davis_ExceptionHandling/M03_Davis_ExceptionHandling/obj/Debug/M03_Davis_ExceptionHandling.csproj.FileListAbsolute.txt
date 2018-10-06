@@ -1,0 +1,10 @@
+C:\Users\Spnny\source\repos\M03_Davis_ExceptionHandling\M03_Davis_ExceptionHandling\bin\Debug\M03_Davis_ExceptionHandling.exe.config
+C:\Users\Spnny\source\repos\M03_Davis_ExceptionHandling\M03_Davis_ExceptionHandling\bin\Debug\M03_Davis_ExceptionHandling.exe
+C:\Users\Spnny\source\repos\M03_Davis_ExceptionHandling\M03_Davis_ExceptionHandling\bin\Debug\M03_Davis_ExceptionHandling.pdb
+C:\Users\Spnny\source\repos\M03_Davis_ExceptionHandling\M03_Davis_ExceptionHandling\obj\Debug\M03_Davis_ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\Spnny\source\repos\M03_Davis_ExceptionHandling\M03_Davis_ExceptionHandling\obj\Debug\M03_Davis_ExceptionHandling.SalePriceCalculator.resources
+C:\Users\Spnny\source\repos\M03_Davis_ExceptionHandling\M03_Davis_ExceptionHandling\obj\Debug\M03_Davis_ExceptionHandling.Properties.Resources.resources
+C:\Users\Spnny\source\repos\M03_Davis_ExceptionHandling\M03_Davis_ExceptionHandling\obj\Debug\M03_Davis_ExceptionHandling.csproj.GenerateResource.cache
+C:\Users\Spnny\source\repos\M03_Davis_ExceptionHandling\M03_Davis_ExceptionHandling\obj\Debug\M03_Davis_ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Spnny\source\repos\M03_Davis_ExceptionHandling\M03_Davis_ExceptionHandling\obj\Debug\M03_Davis_ExceptionHandling.exe
+C:\Users\Spnny\source\repos\M03_Davis_ExceptionHandling\M03_Davis_ExceptionHandling\obj\Debug\M03_Davis_ExceptionHandling.pdb

@@ -1,0 +1,10 @@
+C:\Users\Spnny\source\repos\M04_Davis_DaysOfTheWeek\M04_Davis_DaysOfTheWeek\bin\Debug\M04_Davis_DaysOfTheWeek.exe.config
+C:\Users\Spnny\source\repos\M04_Davis_DaysOfTheWeek\M04_Davis_DaysOfTheWeek\bin\Debug\M04_Davis_DaysOfTheWeek.exe
+C:\Users\Spnny\source\repos\M04_Davis_DaysOfTheWeek\M04_Davis_DaysOfTheWeek\bin\Debug\M04_Davis_DaysOfTheWeek.pdb
+C:\Users\Spnny\source\repos\M04_Davis_DaysOfTheWeek\M04_Davis_DaysOfTheWeek\obj\Debug\M04_Davis_DaysOfTheWeek.csprojAssemblyReference.cache
+C:\Users\Spnny\source\repos\M04_Davis_DaysOfTheWeek\M04_Davis_DaysOfTheWeek\obj\Debug\M04_Davis_DaysOfTheWeek.DaysOfTheWeek.resources
+C:\Users\Spnny\source\repos\M04_Davis_DaysOfTheWeek\M04_Davis_DaysOfTheWeek\obj\Debug\M04_Davis_DaysOfTheWeek.Properties.Resources.resources
+C:\Users\Spnny\source\repos\M04_Davis_DaysOfTheWeek\M04_Davis_DaysOfTheWeek\obj\Debug\M04_Davis_DaysOfTheWeek.csproj.GenerateResource.cache
+C:\Users\Spnny\source\repos\M04_Davis_DaysOfTheWeek\M04_Davis_DaysOfTheWeek\obj\Debug\M04_Davis_DaysOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\Spnny\source\repos\M04_Davis_DaysOfTheWeek\M04_Davis_DaysOfTheWeek\obj\Debug\M04_Davis_DaysOfTheWeek.exe
+C:\Users\Spnny\source\repos\M04_Davis_DaysOfTheWeek\M04_Davis_DaysOfTheWeek\obj\Debug\M04_Davis_DaysOfTheWeek.pdb

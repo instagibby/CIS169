@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M03_Davis_StringVariableDemo", "M03_Davis_StringVariableDemo\M03_Davis_StringVariableDemo.csproj", "{5EB033AE-9C40-4CF9-8446-8808FFADCC51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EB033AE-9C40-4CF9-8446-8808FFADCC51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB033AE-9C40-4CF9-8446-8808FFADCC51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB033AE-9C40-4CF9-8446-8808FFADCC51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB033AE-9C40-4CF9-8446-8808FFADCC51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDC716FE-EE3F-41DC-AB02-0AE0D2015647}
+	EndGlobalSection
+EndGlobal

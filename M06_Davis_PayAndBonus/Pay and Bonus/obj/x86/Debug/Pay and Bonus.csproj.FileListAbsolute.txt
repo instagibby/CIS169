@@ -1,0 +1,9 @@
+C:\Users\Spnny\source\repos\Pay and Bonus\Pay and Bonus\bin\Debug\Pay and Bonus.exe
+C:\Users\Spnny\source\repos\Pay and Bonus\Pay and Bonus\bin\Debug\Pay and Bonus.pdb
+C:\Users\Spnny\source\repos\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.csprojAssemblyReference.cache
+C:\Users\Spnny\source\repos\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay_and_Bonus.PayAndBonus.resources
+C:\Users\Spnny\source\repos\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay_and_Bonus.Properties.Resources.resources
+C:\Users\Spnny\source\repos\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.csproj.GenerateResource.cache
+C:\Users\Spnny\source\repos\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.csproj.CoreCompileInputs.cache
+C:\Users\Spnny\source\repos\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.exe
+C:\Users\Spnny\source\repos\Pay and Bonus\Pay and Bonus\obj\x86\Debug\Pay and Bonus.pdb
