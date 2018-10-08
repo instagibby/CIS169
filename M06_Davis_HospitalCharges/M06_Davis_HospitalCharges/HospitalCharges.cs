@@ -59,6 +59,7 @@ namespace M06_Davis_HospitalCharges
 
         private double CalcMiscCharges()
         {
+            miscFees = 0;
             //  Parses for medication charges and validates its not negative
             if (double.TryParse(medicationTextBox.Text, out double medicationCharge) && medicationCharge >= 0)
             {
@@ -108,7 +109,7 @@ namespace M06_Davis_HospitalCharges
             return CalcStayCharges() + CalcMiscCharges();
         }
 
-        private void calculateBtn_Click(object sender, EventArgs e)
+        private void calculateBtn_Click(object sender, EventArgs e) 
         {
             //  Runs code to test following if statement
             CalcTotalCharges();
