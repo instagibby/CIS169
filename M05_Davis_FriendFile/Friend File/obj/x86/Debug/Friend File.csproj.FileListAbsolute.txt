@@ -1,9 +1,0 @@
-C:\Users\Spnny\source\repos\M05_Davis_FriendFile\Friend File\obj\x86\Debug\Friend File.csprojAssemblyReference.cache
-C:\Users\Spnny\source\repos\M05_Davis_FriendFile\Friend File\obj\x86\Debug\Friend_File.FriendFile.resources
-C:\Users\Spnny\source\repos\M05_Davis_FriendFile\Friend File\obj\x86\Debug\Friend_File.Properties.Resources.resources
-C:\Users\Spnny\source\repos\M05_Davis_FriendFile\Friend File\obj\x86\Debug\Friend File.csproj.GenerateResource.cache
-C:\Users\Spnny\source\repos\M05_Davis_FriendFile\Friend File\obj\x86\Debug\Friend File.csproj.CoreCompileInputs.cache
-C:\Users\Spnny\source\repos\M05_Davis_FriendFile\Friend File\bin\Debug\Friend File.exe
-C:\Users\Spnny\source\repos\M05_Davis_FriendFile\Friend File\bin\Debug\Friend File.pdb
-C:\Users\Spnny\source\repos\M05_Davis_FriendFile\Friend File\obj\x86\Debug\Friend File.exe
-C:\Users\Spnny\source\repos\M05_Davis_FriendFile\Friend File\obj\x86\Debug\Friend File.pdb
