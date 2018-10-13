@@ -42,7 +42,7 @@ namespace Friend_File
             {
                 string textInput = nameTextBox.Text;
 
-                // Rusn if statement with regex to test for the
+                // Runs if statement with regex to test for the
                 // input having only letters
                 if (Regex.IsMatch(textInput, @"^[a-zA-Z]+$"))
                 {
