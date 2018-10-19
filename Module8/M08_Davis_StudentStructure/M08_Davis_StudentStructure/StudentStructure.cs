@@ -47,7 +47,7 @@ namespace M08_Davis_StudentStructure
         {
             MessageBox.Show("Hello " + student.name + "!\nWelcome to DMACC, your" +
                 " selected major is: " + student.major + ".\nYour Student ID is: " + 
-                student.studentID + " try to keep it to yourself.");
+                student.studentID + ". Try to keep it to yourself.");
         }
 
 
@@ -57,12 +57,15 @@ namespace M08_Davis_StudentStructure
             {
                 // Makes a New student newStudent 
                 Student newStudent = new Student();
-                bool validStudent = false;
                 int studentID;
+                bool studentNameValid = false;
+                bool studentMajorValid = false;
+                bool studentIDValid = false;
 
-                if (Regex.IsMatch(studentNameTextBox.Text, @"^[a-zA-Z]+$")) // Tests name input
+                if (Regex.IsMatch(studentNameTextBox.Text, @"^[a-zA-Z\s]+$")) // Tests name input
                 {
                     newStudent.name = studentNameTextBox.Text;
+                    studentNameValid = true;
                 }
                 else
                 {
@@ -72,6 +75,7 @@ namespace M08_Davis_StudentStructure
                 if (Regex.IsMatch(studentMajorTextBox.Text, @"^[a-zA-Z]+$")) // Tests Major input
                 {
                     newStudent.major = studentMajorTextBox.Text;
+                    studentMajorValid = true;
                 }
                 else
                 {
@@ -81,13 +85,14 @@ namespace M08_Davis_StudentStructure
                 if (int.TryParse(studentIDTextBox.Text, out studentID))
                 {
                     newStudent.studentID = studentID;
+                    studentIDValid = true;
                 }
                 else
                 {
                     MessageBox.Show("Please only enter numbers into your student ID.");
                 }
 
-                if (validStudent)
+                if (studentNameValid && studentMajorValid && studentIDValid)
                 {
                     DisplayStudent(newStudent);
                 }
