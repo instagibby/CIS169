@@ -8,6 +8,23 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
+/** =========================================================
+
+ Spencer Davis
+ Windows 7
+ Microsoft Visual Studio 2017
+ CIS 169 C# 
+ Module 8 CSV Reader Tutorial
+ Project Description: User clicks Get Stores and the program retrieves
+    the values for the student from the CSV file and then averages the 
+    scores to be displayed to the user.
+
+ I attest that this is my original work.
+ I have not used unauthorized source code, either modified or unmodified.
+ I have not given other fellow student(s) access to my program.
+
+=========================================================== **/
+
 namespace CSV_Reader
 {
     public partial class CVSReader : Form
@@ -53,7 +70,7 @@ namespace CSV_Reader
                         total += int.Parse(str);
                     }
 
-                    // Caluclate hte average of these tests scores
+                    // Caluclate the average of these tests scores
                     average = (double)total / tokens.Length;
 
                     // Display the average

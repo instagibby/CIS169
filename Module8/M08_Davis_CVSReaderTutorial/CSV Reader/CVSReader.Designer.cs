@@ -47,17 +47,18 @@
             this.getScoresButton.Name = "getScoresButton";
             this.getScoresButton.Size = new System.Drawing.Size(75, 23);
             this.getScoresButton.TabIndex = 1;
-            this.getScoresButton.Text = "Get Scores";
+            this.getScoresButton.Text = "&Get Scores";
             this.getScoresButton.UseVisualStyleBackColor = true;
             this.getScoresButton.Click += new System.EventHandler(this.getScoresButton_Click);
             // 
             // exitButton
             // 
+            this.exitButton.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.exitButton.Location = new System.Drawing.Point(145, 155);
             this.exitButton.Name = "exitButton";
             this.exitButton.Size = new System.Drawing.Size(75, 23);
             this.exitButton.TabIndex = 2;
-            this.exitButton.Text = "Exit";
+            this.exitButton.Text = "E&xit";
             this.exitButton.UseVisualStyleBackColor = true;
             this.exitButton.Click += new System.EventHandler(this.exitButton_Click);
             // 
