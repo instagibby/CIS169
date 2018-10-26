@@ -8,6 +8,23 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+/** =========================================================
+
+ Spencer Davis
+ Windows 7
+ Microsoft Visual Studio 2017
+ CIS 169 C# 
+ Module 8 Drink Vending Machine
+ Project Description: User can select a soda to purchase, and then when the
+    soda is purchased, it adds to the total sale of the machine. If there is
+    no sodas left in the machine the user is informed it is out.
+
+ I attest that this is my original work.
+ I have not used unauthorized source code, either modified or unmodified.
+ I have not given other fellow student(s) access to my program.
+
+=========================================================== **/
+
 namespace MO8_Davis_DrinkVendingMachineProgram
 {
     struct Soda
