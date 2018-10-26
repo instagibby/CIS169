@@ -37,34 +37,34 @@ namespace M09_Davis_CarClassProgram
             InitializeComponent();
             YearDisplayLabel.Text = MyCar.Year.ToString();
             MakeDisplayLabel.Text = MyCar.Make;
-            SpeedDisplayLabel.Text = MyCar._speed.ToString();
+            SpeedDisplayLabel.Text = MyCar.Speed.ToString();
         }
 
         // Accelerate method adds 5 to speed
         private void Accelerate(Car car)
         {
-            car._speed += 5;
-            SpeedDisplayLabel.Text = car._speed.ToString();
+            car.Speed += 5;
+            SpeedDisplayLabel.Text = car.Speed.ToString();
         }
 
         // Brake method removes 5 from speed
         private void Brake(Car car)
         {
-            car._speed -= 5;
-            SpeedDisplayLabel.Text = car._speed.ToString();
+            car.Speed -= 5;
+            SpeedDisplayLabel.Text = car.Speed.ToString();
         }
 
         private void MessageToUser(Car car)
         {
-            if (car._speed == 0)
+            if (car.Speed == 0)
             {
                 MessageBox.Show("You have stopped!");
             }
-            else if (car._speed > 100)
+            else if (car.Speed > 100)
             {
                 MessageBox.Show("Slow down there, Speed Racer!");
             } 
-            else if (car._speed < -100)
+            else if (car.Speed < -100)
             {
                 MessageBox.Show("You might consider driving forwards at this speed...");
             }

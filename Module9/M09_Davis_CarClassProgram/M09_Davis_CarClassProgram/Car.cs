@@ -11,7 +11,7 @@ namespace M09_Davis_CarClassProgram
         // Fields
         private int _year;      // The car's year
         private string _make;   // The car's make
-        public int _speed;      // Current Speed;
+        private int _speed;      // Current Speed;
 
         // Constructor
         public Car(int year, string make)
@@ -21,22 +21,22 @@ namespace M09_Davis_CarClassProgram
             _speed = 0;
         }
 
-        // Brand property
+        // Year property
         public int Year
         {
             get { return _year; }
             set { _year = value; }
         }
 
-        // Model property
+        // Make property
         public string Make
         {
             get { return _make; }
             set { _make = value; }
         }
 
-        // Price property
-        public int Price
+        // Speed property
+        public int Speed
         {
             get { return _speed; }
             set { _speed = value; }
