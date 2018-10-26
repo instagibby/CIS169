@@ -186,17 +186,18 @@
             this.createObjectButton.Name = "createObjectButton";
             this.createObjectButton.Size = new System.Drawing.Size(75, 41);
             this.createObjectButton.TabIndex = 2;
-            this.createObjectButton.Text = "Create Object";
+            this.createObjectButton.Text = "&Create Object";
             this.createObjectButton.UseVisualStyleBackColor = true;
             this.createObjectButton.Click += new System.EventHandler(this.createObjectButton_Click);
             // 
             // exitButton
             // 
+            this.exitButton.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.exitButton.Location = new System.Drawing.Point(130, 254);
             this.exitButton.Name = "exitButton";
             this.exitButton.Size = new System.Drawing.Size(75, 41);
             this.exitButton.TabIndex = 3;
-            this.exitButton.Text = "Exit";
+            this.exitButton.Text = "E&xit";
             this.exitButton.UseVisualStyleBackColor = true;
             this.exitButton.Click += new System.EventHandler(this.exitButton_Click);
             // 
