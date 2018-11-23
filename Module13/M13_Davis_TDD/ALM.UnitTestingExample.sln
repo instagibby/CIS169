@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALM.MathLibrary", "ALM.MathLibrary\ALM.MathLibrary.csproj", "{7169C2E2-6AE1-435E-9F91-4A960439CF17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALM.MathLibraryTests", "ALM.MathLibraryTests\ALM.MathLibraryTests.csproj", "{84CF9342-2803-4323-A789-BBA1C8D24462}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7169C2E2-6AE1-435E-9F91-4A960439CF17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7169C2E2-6AE1-435E-9F91-4A960439CF17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7169C2E2-6AE1-435E-9F91-4A960439CF17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7169C2E2-6AE1-435E-9F91-4A960439CF17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84CF9342-2803-4323-A789-BBA1C8D24462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84CF9342-2803-4323-A789-BBA1C8D24462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84CF9342-2803-4323-A789-BBA1C8D24462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84CF9342-2803-4323-A789-BBA1C8D24462}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3405B954-7DA8-4605-9508-AF33A42D149B}
+	EndGlobalSection
+EndGlobal
